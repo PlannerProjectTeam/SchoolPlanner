@@ -39,7 +39,3 @@ export const AppNavigation = () => {
     </NavigationContainer>
   );
 };
-
-const styles = StyleSheet.create({
-    
-});
